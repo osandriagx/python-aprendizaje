@@ -1,6 +1,6 @@
 #
-#
-#
+# script........: holaoop.py
+# fecha.........: 18-05-2016
 #
 
 class Hola:
@@ -14,7 +14,7 @@ class Hola:
 #
 
 # Definimos un objeto "saludo"
-Saludo misaludo
+misaludo = Hola()
 
 # Utilizamos el m'etodo "imprimeSaludo" del objeto "misaludo"
 misaludo.imprimeSaludo()

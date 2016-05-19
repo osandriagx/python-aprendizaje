@@ -16,5 +16,5 @@ class Hola:
 # Definimos un objeto "saludo"
 Saludo misaludo
 
-# Utilizamos el método "imprimeSaludo" del objeto "misaludo"
+# Utilizamos el m'etodo "imprimeSaludo" del objeto "misaludo"
 misaludo.imprimeSaludo()
